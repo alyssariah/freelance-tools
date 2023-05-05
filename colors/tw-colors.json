@@ -1,0 +1,24 @@
+{
+  "colors": {
+    "purple-50": "#efe6fd",
+    "purple-100": "#ceb0fa",
+    "purple-200": "#b78af7",
+    "purple-300": "#9654f4",
+    "purple-400": "#8133f1",
+    "purple-500": "#6200ee",
+    "purple-600": "#5900d9",
+    "purple-700": "#4600a9",
+    "purple-800": "#360083",
+    "purple-900": "#290064",
+    "green-50": "#e6fef6",
+    "green-100": "#b0fae4",
+    "green-200": "#8af8d7",
+    "green-300": "#54f5c5",
+    "green-400": "#33f3b9",
+    "green-500": "#00f0a8",
+    "green-600": "#00da99",
+    "green-700": "#00aa77",
+    "green-800": "#00845c",
+    "green-900": "#006547"
+  }
+}

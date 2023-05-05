@@ -1,0 +1,12 @@
+{
+  "name": "freelance-tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alysss Jackson",
+  "license": "MIT",
+  "scripts": {
+    "convert-img": "node scripts/webp-converter.js",
+    "tw-color": "node scripts/tw-color.js",
+    "mui-color": "node scripts/mui-color.js"
+  }
+}
